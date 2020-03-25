@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
+    "jquery": "3.4.1",
     "jest": "^25.1.0"
   }
 }

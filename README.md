@@ -1,3 +1,13 @@
+
+
+# Information (From me)
+
+- Forked this project
+- Used JEST test framework so one can use `npm/yarn test`
+- Use index.html and directly open in chrome or any other browser.
+- This is a simple HTML and JS application but only JEST uses package.json / node_modules
+- Currently till Trillion numbers are added we can add more scale if required.
+
 # JavaScript/Front-end Developer - Exercise 1
 
 ## Instructions

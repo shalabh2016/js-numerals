@@ -2,5 +2,5 @@
 
 function numberToWord() {
     var num = $('#number').val();
-    $('#toWord').text(num);
+    $('#toWord').text(process(num));
 }

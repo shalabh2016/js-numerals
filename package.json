@@ -3,7 +3,7 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jquery": "3.4.1",
+    "jquery": "3.5.0",
     "jest": "^25.1.0"
   }
 }
